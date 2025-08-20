@@ -35,7 +35,7 @@ export default function NewTrip() {
               <input
                 type="text"
                 name="title"
-                placeholder="Japan trip..."
+                placeholder="My trip..."
                 className={cn(
                   "w-full border border-gray-300 px-3 py-2",
                   "rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
